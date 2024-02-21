@@ -1,0 +1,5 @@
+inherits = "github_dark"
+
+"ui.background" = {}
+
+"ui.virtual.inlay-hint" = { fg = "#6c6c93"}
